@@ -3,10 +3,11 @@
 Using a Linear Classification model to predict if a person is likely to have heart stroke  
 Dataset- healtcare-datase-stoke-data [Public dataset- Kaggle}
 
-#TechStack  
-Machine Learning, Kaggle
-#Theme  Medical Healthcare
-#Team No. 30  
+# TechStack   
+Machine Learning, Kaggle  
+# Theme  
+Medical Healthcare    
+# Team No. 30  
 --Ansh Chourasia [DCH- 8328]  
 --Jugraj Singh Palia [DCH- 8329]
 
